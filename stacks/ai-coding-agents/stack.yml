@@ -1,0 +1,10 @@
+title: "Coder avec un agent d'IA"
+description: "Choisir un modèle et un harness, configurer son agent, le cadrer avec des garde-fous et des spécifications : à pratiquer sur votre poste, avec un modèle dans le cloud ou en local."
+level: beginner
+tags: [ai]
+prerequisites: "Savoir utiliser un terminal et un éditeur de code. 16 Go de mémoire vive pour la partie locale."
+layers:
+  - title: "Préparer"
+    summary: "Un agent dans le cloud et un agent local, prêts sur votre poste"
+    contents:
+      - { slug: ai-agent-workstation }
