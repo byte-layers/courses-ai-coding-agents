@@ -15,3 +15,12 @@ layers:
       - { slug: model-leaderboards }
       - { slug: coding-harness-landscape }
       - { slug: ai-coding-at-work }
+      - { slug: ai-tool-choice-challenge }
+  - title: "Configurer"
+    summary: "Écrire une configuration d'agent portable, la cadrer par des permissions, et connaître les risques du code généré"
+    contents:
+      - { slug: agent-config-building-blocks, role: read-first }
+      - { slug: agent-config-crosswalk, role: read-first }
+      - { slug: spec-driven-development, role: read-first }
+      - { slug: generated-code-risks }
+      - { slug: portable-agent-config }
