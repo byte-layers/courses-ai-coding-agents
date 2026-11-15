@@ -7,4 +7,11 @@ layers:
   - title: "Préparer"
     summary: "Un agent dans le cloud et un agent local, prêts sur votre poste"
     contents:
+      - { slug: agent-loop, role: read-first }
       - { slug: ai-agent-workstation }
+  - title: "Choisir"
+    summary: "Lire un classement, situer un outil, connaître les règles en entreprise"
+    contents:
+      - { slug: model-leaderboards }
+      - { slug: coding-harness-landscape }
+      - { slug: ai-coding-at-work }
