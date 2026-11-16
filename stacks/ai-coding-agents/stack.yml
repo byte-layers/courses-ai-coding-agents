@@ -27,6 +27,8 @@ layers:
       - { slug: agent-hooks }
       - { slug: port-agent-config }
   - title: "Coder"
-    summary: "Confier la même tâche au même modèle local dans deux harness, et vérifier leur travail par les tests"
+    summary: "Confier une tâche à un agent local, transformer une issue floue en spécification, et comparer le code obtenu avec et sans elle"
     contents:
       - { slug: one-model-two-harnesses }
+      - { slug: issue-to-spec }
+      - { slug: spec-vs-vibe }
