@@ -24,6 +24,7 @@ layers:
       - { slug: spec-driven-development, role: read-first }
       - { slug: generated-code-risks }
       - { slug: portable-agent-config }
+      - { slug: agent-hooks }
   - title: "Coder"
     summary: "Confier la même tâche au même modèle local dans deux harness, et vérifier leur travail par les tests"
     contents:
