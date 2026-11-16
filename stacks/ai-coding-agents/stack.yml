@@ -25,6 +25,7 @@ layers:
       - { slug: generated-code-risks }
       - { slug: portable-agent-config }
       - { slug: agent-hooks }
+      - { slug: port-agent-config }
   - title: "Coder"
     summary: "Confier la même tâche au même modèle local dans deux harness, et vérifier leur travail par les tests"
     contents:
