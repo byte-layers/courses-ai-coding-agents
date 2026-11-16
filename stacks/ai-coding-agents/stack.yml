@@ -32,3 +32,4 @@ layers:
       - { slug: one-model-two-harnesses }
       - { slug: issue-to-spec }
       - { slug: spec-vs-vibe }
+      - { slug: agent-factories-outlook }
